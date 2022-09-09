@@ -1,0 +1,16 @@
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\bin\Debug\net5.0\TreesC#.exe
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\bin\Debug\net5.0\TreesC#.deps.json
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\bin\Debug\net5.0\TreesC#.runtimeconfig.json
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\bin\Debug\net5.0\TreesC#.runtimeconfig.dev.json
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\bin\Debug\net5.0\TreesC#.dll
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\bin\Debug\net5.0\TreesC#.pdb
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\TreesC#.csproj.AssemblyReference.cache
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\TreesC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\TreesC#.AssemblyInfoInputs.cache
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\TreesC#.AssemblyInfo.cs
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\TreesC#.csproj.CoreCompileInputs.cache
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\TreesC#.dll
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\refint\TreesC#.dll
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\TreesC#.pdb
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\TreesC#.genruntimeconfig.cache
+C:\Users\jmichael\Desktop\plurulalsight\DSA\TreesC#\obj\Debug\net5.0\ref\TreesC#.dll
